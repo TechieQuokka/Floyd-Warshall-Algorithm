@@ -1,6 +1,7 @@
 #include "test_framework.h"
 #include "../src/core/floyd_warshall.h"
 #include "../src/utils/file_io.h"
+#include "../src/utils/memory_manager.h"
 #include <stdlib.h>
 
 /* Graph tests */

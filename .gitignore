@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+*.exe
+*.o
+
+# Generated files
+results.txt
+test_graph.txt
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Package files
+*.tar.gz

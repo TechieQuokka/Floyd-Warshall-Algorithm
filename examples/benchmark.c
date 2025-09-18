@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <math.h>
 
 /* Create a random graph for benchmarking */
 Graph* create_random_graph(int vertices, double density) {
